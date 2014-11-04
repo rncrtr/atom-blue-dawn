@@ -1,0 +1,11 @@
+{
+  "name": "atom-blue-dawn",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "Atom BlueDawn theme ported from Sublime",
+  "repository": "https://github.com/rncrtr/atom-blue-dawn.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
