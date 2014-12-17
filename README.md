@@ -1,5 +1,5 @@
-# blue-dawn theme
+# Atom.io Blue Dawn Theme
 
-A short description of your theme.
+Blue Dawn is a Atom port from Sublime 3. Unknown author. 
 
 ![A screenshot of your theme](http://i.imgur.com/Ij6v47h.png)
